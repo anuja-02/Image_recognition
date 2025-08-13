@@ -54,4 +54,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-**Author:** [Your Name](https://github.com/your-username)
+**Author:** [Anuja](https://github.com/anuja-02)
